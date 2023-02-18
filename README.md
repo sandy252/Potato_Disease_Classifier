@@ -11,9 +11,10 @@ An end to end system which can identiy disease in photo plant. It takes input in
 
 
 ## ScreenShots
+![Screenshot (63)](https://user-images.githubusercontent.com/66490787/219869302-ef00bf04-9bb4-4f20-94fb-35120788ae8f.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/66490787/219869310-f15f7b73-4792-4145-9a5e-fc0268a6804c.png)
 
-![Screenshot (63)](https://user-images.githubusercontent.com/66490787/219854208-d4a70fe1-cdaa-445a-a84e-ae165406524e.png)
-![Screenshot (64)](https://user-images.githubusercontent.com/66490787/219854209-b4cf0731-0231-4636-9956-3aede7f1fa83.png)
+
 
 
 
