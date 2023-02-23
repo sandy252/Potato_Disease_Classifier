@@ -65,4 +65,6 @@ Start the server
 - Integrating API's to a system.
 - Creating and Deploying web apps.
 
+## Support
 
+For support, email kashyapsandeep252@gmail.com or join our Slack channel.
