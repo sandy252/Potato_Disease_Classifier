@@ -18,6 +18,31 @@ An end to end system which can identiy disease in photo plant. It takes input in
 ![Screenshot (64)](https://user-images.githubusercontent.com/66490787/219869310-f15f7b73-4792-4145-9a5e-fc0268a6804c.png)
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/sandy252/Potato_Disease_Classifier.git
+```
+
+Go to the project directory
+
+```bash
+  cd Potato_Disease_Classifier
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the server
+
+```bash
+  streamlit run main.py
+```
 
 
 
